@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1536827018 source:d:\ccode\doodlejump\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"doodleJump.h"
+
+1536901737 d:\ccode\doodlejump\doodlejump.h
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<time.h>
+	<math.h>
+	<direct.h>
+	<string.h>
+
+1536827512 source:d:\ccode\doodlejump\doodlejump.cpp
+	"doodleJump.h"
+
