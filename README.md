@@ -1,5 +1,5 @@
 # DoodleJump
-## An imitation of an Android game on PC. Using C and EGE(a C++ Graphic Engine). Only for Windows.
+<p>An imitation of an Android game on PC. Using C and EGE(a C++ Graphic Engine). Only for Windows.</p>
 <p>IDE: CodeBlocks</p>
 <p>EGE Website: http://xege.org/</p>
 <p>Note: This program is mainly coded with C, but uses a C++ Graphic Engine(EGE).</p>
